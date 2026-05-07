@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineer @ Athens Technology Center (ATC)<br>💻 Passionate about Software Spring Boot Backend Development, System Design & DevOps<br>🎯 Vision: Becoming a Software Architect delivering innovative solutions to businesses and customers<br>🌟 Looking to contribute to Open Source projects<br>🤖 Exploring AI/LLMs and their efficient utilization in modern software systems
+🚀 Software Engineer @ Engel & Völkers <br>💻 Passionate about Software Spring Boot Backend Development, System Design & DevOps<br>🎯 Vision: Becoming a Software Architect delivering innovative solutions to businesses and customers<br>🌟 Looking to contribute to Open Source projects<br>🤖 Exploring AI/LLMs and their efficient utilization in modern software systems
 
 
 ## 🌐 Socials:
